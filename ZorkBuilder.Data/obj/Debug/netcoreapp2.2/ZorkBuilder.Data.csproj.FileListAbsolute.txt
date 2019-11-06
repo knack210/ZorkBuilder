@@ -1,0 +1,12 @@
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\bin\Debug\netcoreapp2.2\ZorkBuilder.Data.deps.json
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\bin\Debug\netcoreapp2.2\ZorkBuilder.Data.runtimeconfig.json
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\bin\Debug\netcoreapp2.2\ZorkBuilder.Data.runtimeconfig.dev.json
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\bin\Debug\netcoreapp2.2\ZorkBuilder.Data.dll
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.csprojAssemblyReference.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.csproj.CoreCompileInputs.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.AssemblyInfoInputs.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.AssemblyInfo.cs
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\bin\Debug\netcoreapp2.2\ZorkBuilder.Data.pdb
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.csproj.Fody.CopyLocal.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.dll
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\obj\Debug\netcoreapp2.2\ZorkBuilder.Data.pdb

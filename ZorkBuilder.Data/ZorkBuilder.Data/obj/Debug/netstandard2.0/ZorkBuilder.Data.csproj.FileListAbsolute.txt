@@ -1,0 +1,10 @@
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.deps.json
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.dll
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csprojAssemblyReference.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csproj.CoreCompileInputs.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfoInputs.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfo.cs
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csproj.Fody.CopyLocal.cache
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.dll
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder.Data\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.pdb
