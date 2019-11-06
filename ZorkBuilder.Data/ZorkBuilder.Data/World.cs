@@ -9,12 +9,15 @@ namespace ZorkBuilder.Data
 	{
 		public event PropertyChangedEventHandler PropertyChanged;
 
-		public List<Room> Rooms { get; set; }
+        public string StartingLocation;
 
-		public string StartingLocation;
+        public List<Room> Rooms { get; set; }
+
+		
 
 		public World()
 		{
+            StartingLocation = "DefaultLocation";
 			Rooms = new List<Room>();
 		}			
 	}

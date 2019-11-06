@@ -5,7 +5,6 @@ C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.MainForm.resources
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.Properties.Resources.resources
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.GenerateResource.cache
-C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.CoreCompileInputs.cache
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.exe
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.pdb
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\bin\Debug\Newtonsoft.Json.dll
@@ -14,3 +13,4 @@ C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\bin\Debug\ZorkBuilder
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.Fody.CopyLocal.cache
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.CopyComplete
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.Forms.AddRoomForm.resources

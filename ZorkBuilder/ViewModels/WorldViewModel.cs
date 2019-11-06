@@ -13,7 +13,7 @@ namespace ZorkBuilder.ViewModels
 
 		public string Filename { get; set; }
 
-		public BindingList<Room> Rooms { get; set; }
+		public BindingList<Room> Rooms { get; set; }         
 
 		public World World
 		{
