@@ -14,3 +14,4 @@ C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\bin\Debug\Newtonsoft.
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.Fody.CopyLocal.cache
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.CopyComplete
 C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.Forms.AddRoomForm.resources
+C:\Users\ni371318\Documents\GitHub\ZorkBuilder\ZorkBuilder\obj\Debug\ZorkBuilder.csproj.CoreCompileInputs.cache

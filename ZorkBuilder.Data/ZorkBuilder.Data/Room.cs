@@ -16,11 +16,18 @@ namespace ZorkBuilder.Data
 
 		public string Description { get; set; }
         
-		public Dictionary<NeighborLocations, string> Neighbors { get; set; }       
+		public Dictionary<NeighborLocations, string> Neighbors { get; set; }
 
-        public Room()
+		public string North { get; set; }
+		public string West { get; set; }
+		public string South { get; set; }		
+		public string East { get; set; }
+
+
+
+		public Room()
         {
-            Name = "DefaultRoom";
+            Name = "Default Room";
             Description = "This is a room.";
             Neighbors = new Dictionary<NeighborLocations, string>();
         }
